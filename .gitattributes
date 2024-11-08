@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+unipose_swint.pth filter=lfs diff=lfs merge=lfs -text
